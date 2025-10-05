@@ -5,6 +5,7 @@
 <p align="center">
   <img src="assets/Application.jpg"  width="100%">
 </p>
+
 ## Install Environments
 
 Create a new conda environment and install required packages.
@@ -135,7 +136,7 @@ python TriUAD_Multi_Class.py --dataset Real-IAD --data_path ../Real-IAD --phase 
   <img src="assets/PCB.jpg"  width="100%">
 </p>
 <p align="center">
-  <img src="assets/VisA.jpg"  width="100%">
+  <img src="assets/ViSA.jpg"  width="100%">
 </p>
 <p align="center">
   <img src="assets/Real-IAD.jpg"  width="100%">
@@ -144,7 +145,6 @@ python TriUAD_Multi_Class.py --dataset Real-IAD --data_path ../Real-IAD --phase 
   <img src="assets/MVTec.jpg"  width="100%">
 </p>
 
-<details>
 
 
 ## Acknowledgements
