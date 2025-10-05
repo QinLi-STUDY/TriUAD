@@ -139,15 +139,21 @@ python TriUAD_Multi_Class.py --dataset Real-IAD --data_path ../Real-IAD --phase 
 <p align="center">
   <img src="assets/PCB.jpg"  width="100%">
 </p>
+
 ### Locatization Results on the VisA dataset
+
 <p align="center">
   <img src="assets/ViSA.jpg"  width="100%">
 </p>
+
 ### Locatization Results on the Real-IAD dataset
+
 <p align="center">
   <img src="assets/Real-IAD.jpg"  width="100%">
 </p>
+
 ### Locatization Results on the MVTec-AD dataset
+
 <p align="center">
   <img src="assets/MVTec.jpg"  width="100%">
 </p>
