@@ -1,7 +1,7 @@
 # TriUAD: A Tri-modal Framework for Multi-class Unsupervised Anomaly Detection
 
 ## Overview
-After the paper is accepted, we will provide the complete core code
+After the paper is accepted, we will provide the complete core code.
 <p align="center">
   <img src="assets/TriUAD.jpg"  width="100%">
 </p>
